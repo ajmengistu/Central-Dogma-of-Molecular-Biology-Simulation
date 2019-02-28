@@ -13,5 +13,7 @@ The following repository contains a python file created using Jupyter Notebook. 
 
 ## Use
 ### Extracting nucleotides from NCBI GenBank.
+```
 Import Bipython library to Jupyter Notebook. 
+```
 ## Link to Webpage
